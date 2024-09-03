@@ -12,6 +12,7 @@
 - [Usage](#usage)
 - [Hardware Requirements](#hardware-requirements)
 - [Software Requirements](#software-requirements)
+- [Results](#results)
 
 
 ## Project Features
@@ -89,3 +90,26 @@ The Green Globe system is built upon a robust architecture that integrates hardw
 - Python 3.x
 - Firebase Admin SDK
 - Required Python libraries (NumPy, Pandas, OpenCV, TensorFlow/PyTorch)
+
+
+## Results
+
+- **User interface for controlling the Robot**
+![image](https://github.com/user-attachments/assets/46058035-17b6-40a4-b5c3-317762cd7440)
+
+- **Green Globe Collecting Data in Green House**
+![image](https://github.com/user-attachments/assets/045f262f-9c13-44ee-aa0d-d6cc072bd5b8)
+
+- **Data Recorded**
+![image](https://github.com/user-attachments/assets/fda99b99-fa6d-473d-82e3-46fe1c30350e)
+
+- **Visualisation of Data Recorded**
+![image](https://github.com/user-attachments/assets/e8e6ee67-6208-4a63-bde4-06575a2ec888)
+
+- **Analysis Obtained from the Captured Image**
+![image](https://github.com/user-attachments/assets/58f83a71-6d27-4954-ac5e-c1ac127854bb)
+
+- **SMS Notification Directly to Users Mobile**
+![image](https://github.com/user-attachments/assets/2e5f9dd8-38ab-426d-a409-e6e96e9f02bb)
+
+
