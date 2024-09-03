@@ -49,6 +49,7 @@ The Green Globe system is built upon a robust architecture that integrates hardw
    ```sh
    git clone https://github.com/yourusername/Green-Globe.git
    cd Green-Globe
+   ```
 2. **Set Up Arduino IDE:**
 - Open the Arduino IDE.
 - Load the .ino file from the arduino/ directory.
@@ -56,12 +57,14 @@ The Green Globe system is built upon a robust architecture that integrates hardw
 3. **Install Python Dependencies:**
    ```sh
    pip install -r requirements.txt
+   ```
 4. **Configure Firebase:**
 - Set up Firebase configuration in firebase_config.json.
 - Ensure that the Firebase Admin SDK is properly initialized in the Python script.
 5. **Run the Python Scripts:**
    ```sh
    python main.py
+   ```
 
 ## Usage
 
